@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "654df3d337a5600fe3551e42"
+  },
+  "name": "chirag",
+  "roll_no": "205223005",
+  "hostel": "garnet",
+  "mobile_no": "9521770913"
+},
+{
+  "_id": {
+    "$oid": "654dfb5837a5600fe3551e44"
+  },
+  "name": "gaurav",
+  "roll_no": "205223010",
+  "hostel": "garnet",
+  "mobile_no": "9521770945"
+},
+{
+  "_id": {
+    "$oid": "654dfe0237a5600fe3551e4f"
+  },
+  "name": "mukesh",
+  "roll_no": "205223018",
+  "hostel": "garnet",
+  "mobile_no": "9521770808"
+}]

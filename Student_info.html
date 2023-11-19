@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+        {% block content %}
+    
+<div class="container">
+    <h1 class="text-center bg-success text-white">Student Information</h1>
+    <br>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Roll No.</th>
+          <th>Hostel</th>
+          <th>Mobile Number</th>
+          
+        </tr>
+      </thead>
+      <tbody>
+        {% for i in info_22 %}
+        <tr>
+          <td>{{ i.name }}</td>
+          <td>{{ i.roll_no }}</td>
+          
+          <td>{{ i.hostel}}</td>
+          <td>{{ i.mobile_no }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% endblock %}

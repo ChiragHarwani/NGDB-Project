@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "654dfb7437a5600fe3551e46"
+  },
+  "item": "cycle",
+  "price": "5000",
+  "item_id": "c101",
+  "seller_name": "chirag"
+},
+{
+  "_id": {
+    "$oid": "654dfc1637a5600fe3551e49"
+  },
+  "item": "mattress",
+  "price": "5000",
+  "item_id": "m101",
+  "seller_name": "gaurav"
+},
+{
+  "_id": {
+    "$oid": "654dfd9437a5600fe3551e4c"
+  },
+  "item": "cycle",
+  "price": "4500",
+  "item_id": "c102",
+  "seller_name": "gaurav"
+},
+{
+  "_id": {
+    "$oid": "654dfdbf37a5600fe3551e4d"
+  },
+  "item": "mattress",
+  "price": "5500",
+  "item_id": "m102",
+  "seller_name": "mukesh"
+}]
